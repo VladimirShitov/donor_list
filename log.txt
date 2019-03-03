@@ -1,0 +1,94 @@
+
+###############---LOG---###############
+Initializing the list 
+Trying to insert data to the position 0
+Success
+Trying to insert data to the position 1
+Success
+Trying to insert data to the position 2
+Success
+Trying to insert data to the position 3
+Success
+Trying to insert data to the position 4
+Success
+Trying to insert data to the position 5
+Success
+Trying to insert data to the position 6
+Success
+Trying to insert data to the position 7
+Success
+Trying to insert data to the position 8
+Success
+Trying to insert data to the position 9
+Success
+Trying to insert data to the position 10
+Success
+Trying to insert data to the position 11
+Success
+Trying to insert data to the position 12
+Success
+Trying to insert data to the position 13
+Success
+Trying to insert data to the position 14
+Success
+Trying to insert data to the position 15
+Success
+Trying to insert data to the position 16
+Success
+Trying to insert data to the position 17
+Success
+Trying to insert data to the position 18
+Success
+Trying to insert data to the position 19
+Success
+Trying to insert data to the position 20
+Success
+Trying to insert data to the position 21
+Success
+Trying to insert data to the position 22
+Success
+Trying to insert data to the position 23
+Success
+Trying to insert data to the position 24
+Success
+Trying to insert data to the position 25
+Success
+Trying to insert data to the position 26
+Success
+Trying to insert data to the position 27
+Success
+Trying to insert data to the position 28
+Success
+Trying to delete item with index 28
+Success
+Trying to print list
+Success
+#########################
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success
+Trying to delete item with index 0
+Success

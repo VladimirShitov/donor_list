@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1548048187 source:/home/vladimir/Desktop/Programming/Uni/lists_2_0/main.cpp
+	<iostream>
+	"./include/Donor_list.h"
+	"./include/Donor.h"
+
+1547919619 source:/home/vladimir/Desktop/Programming/Uni/lists_2_0/src/C_list.cpp
+	"../include/C_list.h"
+	<iostream>
+	<fstream>
+
+1547439960 /home/vladimir/Desktop/Programming/Uni/lists_2_0/include/C_list.h
+	"List_item.h"
+	<string>
+
+1547916412 source:/home/vladimir/Desktop/Programming/Uni/lists_2_0/src/List_item.cpp
+	"C_list.h"
+
+1547918485 /home/vladimir/Desktop/Programming/Uni/lists_2_0/include/List_item.h
+	<iostream>
+	"C_list.h"
+	"Donor.h"
+
+1548047877 source:/home/vladimir/Desktop/Programming/Uni/lists_2_0/src/Donor.cpp
+	"Donor.h"
+
+1548047023 /home/vladimir/Desktop/Programming/Uni/lists_2_0/include/Donor.h
+	<iostream>
+
+1548048301 source:/home/vladimir/Desktop/Programming/Uni/lists_2_0/src/Donor_list.cpp
+	"Donor_list.h"
+	<fstream>
+
+1548047942 /home/vladimir/Desktop/Programming/Uni/lists_2_0/include/Donor_list.h
+	<C_list.h>
+

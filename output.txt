@@ -1,0 +1,4 @@
+A A 13 A positive
+M M 13 A positive
+A A 63 B positive
+B B 29 O negative
